@@ -1,1 +1,3 @@
+Test file added line 2
+
 Test file line 1
