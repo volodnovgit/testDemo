@@ -1,3 +1,5 @@
+Added line4 in branch2
+
 TestFile added line3
 
 Test file added line 2
